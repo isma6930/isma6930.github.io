@@ -1,0 +1,69 @@
+.titre
+{
+    color: blue;
+}
+h1
+{
+    font-size: 35px;
+	color: red ;
+	margin-left: 250px;
+	font-family: sans-serif;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+body
+{
+
+	margin-left: 250px;
+	font-size: 20px;
+}
+.fs
+{
+	font-style: italic;
+}
+.voler
+{
+	float: right;
+	
+}
+body /* On travaille sur la balise body, donc sur TOUTE la page */
+{
+   background: url("unnamed.png") fixed no-repeat top right, url("image588.jpg") fixed;
+   color: #7fff00; /* Le texte de la page sera blanc */
+	font-family: "Trebuchet MS", "Arial Black", Arial, Verdana, serif;
+}
+a:hover
+{
+color: red;
+}
+a:active 
+{
+	color: blue;
+	background-color: black;
+}
+a:visited
+{
+	color: orange
+}
+.ba
+{
+	margin-left: 10px;
+text-align: center;
+}
+img:hover 
+{
+	border : 3px yellow solid;
+}
+#nav
+{
+	border : 3px blue outset ;
+	width: 240px;
+	margin-left: -250px;
+	font-size: 15px;
+	position: fixed;
+}
+.introduction
+{
+	color: blue;
+	font-size: 20px;
+}
